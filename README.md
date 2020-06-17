@@ -95,6 +95,8 @@ The dataset was manipulated and cleaned using an assortment of libraries that in
 
 After creating our machine learning-ready-dataset we went ahead and applied our machine learning algorithms. These were classification algorithms that included Support Vector Machines (SVM), K-Nearest Neighbors, Decision Tree, Random Forest, Gradient Boosting Machines (GBM), eXtreme Gradient Boosting (XGBoost), and AdaBoost. These produced varying test metrics, and AUC measures. The. highest ranking proved to be the Random Forest algorithm with Accuracy Score: 0.7678571428571429 and AUC: 0.64140625. The AUCs were used to create and ROC/AUC Curve plot that compared all the algorithms. Having arrived at the conlusion that Random Forest was the best-performing out of the bunch, I went ahead and executed some hyperparameter tuning and optimizations using RandomizedSearchCV. Another ROC/AUC Curve plot was generated to show the newly incorporated Random Forest + Optimization AUC. The Random Forest + Optimization algorithm had Accuracy Score: 0.7440476190476191 and AUC: 0.55703125. This algorithm did slightly worse on both measures when compared to the Random Forest on default parameters. 
 
+<h2>Random Forest Breakdown:<h2>
+
 <p align="center">
 <img width="298" alt="Screen Shot 2020-06-16 at 10 19 17 PM" src="https://user-images.githubusercontent.com/53641091/84858457-11112600-b020-11ea-9c4d-8193b7b9103c.png">
 </p>
@@ -105,6 +107,28 @@ After creating our machine learning-ready-dataset we went ahead and applied our 
 
 <p align="center">
 <img width="154" alt="Screen Shot 2020-06-16 at 10 19 44 PM" src="https://user-images.githubusercontent.com/53641091/84858600-5b92a280-b020-11ea-8ae1-e5851b92764c.png">
+</p>
+
+<h2>Random Forest + Optimization/RandomizedSearchCV<h2>
+
+<p align="center">
+<img width="1006" alt="Screen Shot 2020-06-16 at 11 00 03 PM" src="https://user-images.githubusercontent.com/53641091/84861156-4704d900-b025-11ea-8469-a7cc516ca817.png">
+</p>
+
+<p align="center">
+<img width="936" alt="Screen Shot 2020-06-16 at 11 00 25 PM" src="https://user-images.githubusercontent.com/53641091/84861174-5126d780-b025-11ea-9318-3f9a232548a6.png">
+</p>
+
+<p align="center">
+<img width="359" alt="Screen Shot 2020-06-16 at 11 00 36 PM" src="https://user-images.githubusercontent.com/53641091/84861192-5a17a900-b025-11ea-85bc-d397b2754773.png">
+</p>
+
+<p align="center">
+<img width="393" alt="Screen Shot 2020-06-16 at 11 00 50 PM" src="https://user-images.githubusercontent.com/53641091/84861200-5e43c680-b025-11ea-94e0-c429bd6635af.png">
+</p>
+
+<p align="center">
+<img width="280" alt="Screen Shot 2020-06-16 at 11 01 01 PM" src="https://user-images.githubusercontent.com/53641091/84861210-626fe400-b025-11ea-9316-542df3a1821c.png">
 </p>
 
 <p align="center">
