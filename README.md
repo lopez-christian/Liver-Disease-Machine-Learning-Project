@@ -27,6 +27,10 @@ The data mining and exploration step dealt some interesting insights regarding t
 </p>
 
 <p align="center">
+<img width="849" alt="Screen Shot 2020-06-16 at 9 42 47 PM" src="https://user-images.githubusercontent.com/53641091/84856661-25532400-b01c-11ea-8232-de09f94262af.png">
+</p>
+
+<p align="center">
 <img width="390" alt="Screen Shot 2020-06-15 at 6 43 31 PM" src="https://user-images.githubusercontent.com/53641091/84722596-7e498c00-af38-11ea-98d9-e2f37bdc8d3f.png">
 </p>
 
@@ -47,11 +51,11 @@ The data mining and exploration step dealt some interesting insights regarding t
 </p>
 
 <p align="center">
-<img width="565" alt="Screen Shot 2020-06-16 at 9 37 26 PM" src="https://user-images.githubusercontent.com/53641091/84855716-a0670b00-b019-11ea-981a-7efec1f17ee9.png">
+<img width="655" alt="Screen Shot 2020-06-16 at 9 37 38 PM" src="https://user-images.githubusercontent.com/53641091/84855720-a230ce80-b019-11ea-868a-ca2c2027ad76.png">
 </p>
 
 <p align="center">
-<img width="655" alt="Screen Shot 2020-06-16 at 9 37 38 PM" src="https://user-images.githubusercontent.com/53641091/84855720-a230ce80-b019-11ea-868a-ca2c2027ad76.png">
+<img width="565" alt="Screen Shot 2020-06-16 at 9 37 26 PM" src="https://user-images.githubusercontent.com/53641091/84855716-a0670b00-b019-11ea-981a-7efec1f17ee9.png">
 </p>
 
 <p align="center">
