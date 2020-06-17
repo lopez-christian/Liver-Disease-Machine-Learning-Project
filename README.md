@@ -100,11 +100,7 @@ After creating our machine learning-ready-dataset we went ahead and applied our 
 </p>
 
 <p align="center">
-<img width="263" alt="Screen Shot 2020-06-16 at 10 19 30 PM" src="https://user-images.githubusercontent.com/53641091/84858568-4ae22c80-b020-11ea-88df-1e05ee3ce4ae.png">
-</p>
-
-<p align="center">
-<img width="154" alt="Screen Shot 2020-06-16 at 10 19 44 PM" src="https://user-images.githubusercontent.com/53641091/84858600-5b92a280-b020-11ea-8ae1-e5851b92764c.png">
+<img width="263" alt="Screen Shot 2020-06-16 at 10 19 30 PM" src="https://user-images.githubusercontent.com/53641091/84858568-4ae22c80-b020-11ea-88df-1e05ee3ce4ae.png"><img width="154" alt="Screen Shot 2020-06-16 at 10 19 44 PM" src="https://user-images.githubusercontent.com/53641091/84858600-5b92a280-b020-11ea-8ae1-e5851b92764c.png">
 </p>
 
 <p align="center">
