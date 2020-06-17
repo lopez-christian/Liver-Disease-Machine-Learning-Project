@@ -23,7 +23,7 @@ The data mining and exploration step dealt some interesting insights regarding t
 </p>
 
 <p align="center">
-<img width="305" alt="Screen Shot 2020-06-16 at 9 07 17 PM" src="https://user-images.githubusercontent.com/53641091/84854013-6136bb00-b015-11ea-83c2-cbc9667189fa.png">
+<img width="218" alt="Screen Shot 2020-06-16 at 9 50 59 PM" src="https://user-images.githubusercontent.com/53641091/84856528-d0afa900-b01b-11ea-9096-9d0db3576e3c.png">
 </p>
 
 <p align="center">
