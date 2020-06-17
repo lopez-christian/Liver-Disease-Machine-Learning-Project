@@ -109,7 +109,7 @@ After creating our machine learning-ready-dataset we went ahead and applied our 
 <img width="154" alt="Screen Shot 2020-06-16 at 10 19 44 PM" src="https://user-images.githubusercontent.com/53641091/84858600-5b92a280-b020-11ea-8ae1-e5851b92764c.png">
 </p>
 
-<h2>Random Forest + Optimization/RandomizedSearchCV<h2>
+<h2>Random Forest + RandomizedSearchCV Breakdown:<h2>
 
 <p align="center">
 <img width="1006" alt="Screen Shot 2020-06-16 at 11 00 03 PM" src="https://user-images.githubusercontent.com/53641091/84861156-4704d900-b025-11ea-8469-a7cc516ca817.png">
