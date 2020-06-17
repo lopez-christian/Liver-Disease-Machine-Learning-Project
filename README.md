@@ -35,11 +35,23 @@ The data mining and exploration step dealt some interesting insights regarding t
 </p>
 
 <p align="center">
+<img width="314" alt="Screen Shot 2020-06-16 at 9 43 30 PM" src="https://user-images.githubusercontent.com/53641091/84856159-ba551d80-b01a-11ea-9815-fbfcfefed776.png">
+</p>
+
+<p align="center">
 <img width="407" alt="Screen Shot 2020-06-15 at 6 44 23 PM" src="https://user-images.githubusercontent.com/53641091/84722714-d7b1bb00-af38-11ea-9a34-19eae2d874ce.png">
 </p>
 
 <p align="center">
 <img width="252" alt="Screen Shot 2020-06-16 at 9 12 23 PM" src="https://user-images.githubusercontent.com/53641091/84854279-149faf80-b016-11ea-859e-309782591a46.png">
+</p>
+
+<p align="center">
+<img width="565" alt="Screen Shot 2020-06-16 at 9 37 26 PM" src="https://user-images.githubusercontent.com/53641091/84855716-a0670b00-b019-11ea-981a-7efec1f17ee9.png">
+</p>
+
+<p align="center">
+<img width="655" alt="Screen Shot 2020-06-16 at 9 37 38 PM" src="https://user-images.githubusercontent.com/53641091/84855720-a230ce80-b019-11ea-868a-ca2c2027ad76.png">
 </p>
 
 <p align="center">
