@@ -71,14 +71,16 @@ The data mining and exploration step dealt some interesting insights regarding t
 </p>
 
 <p align="center">
-<img width="565" alt="Screen Shot 2020-06-16 at 9 37 26 PM" src="https://user-images.githubusercontent.com/53641091/84855716-a0670b00-b019-11ea-981a-7efec1f17ee9.png">
-</p>
-
-<p align="center">
 <img width="494" alt="Screen Shot 2020-06-16 at 9 13 39 PM" src="https://user-images.githubusercontent.com/53641091/84854345-431d8a80-b016-11ea-93ba-720d3c9f80e0.png">
 </p>
 
 <p align="center">
+<img width="424" alt="Screen Shot 2020-06-16 at 10 10 27 PM" src="https://user-images.githubusercontent.com/53641091/84857610-4ddc1d80-b01e-11ea-8ac3-1d023682ff99.png">
+</p>
+
+<p align="center">
+<img width="159" alt="Screen Shot 2020-06-16 at 10 10 44 PM" src="https://user-images.githubusercontent.com/53641091/84857620-50d70e00-b01e-11ea-8594-287904003fbe.png">
+</p>
 
 
 The dataset was manipulated and cleaned using an assortment of libraries that included Pandas and Matplotlib. There was quite some feature engineering to do that included renaming certain columns, dealing null values, handling outliers, and log-transforming and min-max scaling the continous features. There was also some binning that had to be done regarding the age column in order to make the results easier to interpret and visualize. One-hot encoding was performed on any discrete features. 
