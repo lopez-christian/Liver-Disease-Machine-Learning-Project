@@ -97,6 +97,10 @@ The dataset was manipulated and cleaned using an assortment of libraries that in
 <img width="461" alt="Screen Shot 2020-06-15 at 7 00 20 PM" src="https://user-images.githubusercontent.com/53641091/84723512-98846980-af3a-11ea-9173-c6840cae4520.png"><img width="461" alt="Screen Shot 2020-06-15 at 7 00 27 PM" src="https://user-images.githubusercontent.com/53641091/84723515-9a4e2d00-af3a-11ea-8be1-821557d4d1b0.png">
 </p>
 
+<p align="center">
+<img width="255" alt="Screen Shot 2020-06-16 at 11 33 20 PM" src="https://user-images.githubusercontent.com/53641091/84863482-d8764a00-b029-11ea-9f79-9308d6b7a5cd.png">
+</p>
+
 After creating our machine learning-ready-dataset we went ahead and applied our machine learning algorithms. These were classification algorithms that included Support Vector Machines (SVM), K-Nearest Neighbors, Decision Tree, Random Forest, Gradient Boosting Machines (GBM), eXtreme Gradient Boosting (XGBoost), and AdaBoost. These produced varying test metrics, and AUC measures. The. highest ranking proved to be the Random Forest algorithm with Accuracy Score: 0.7678571428571429 and AUC: 0.64140625. The AUCs were used to create and ROC/AUC Curve plot that compared all the algorithms. Having arrived at the conlusion that Random Forest was the best-performing out of the bunch, I went ahead and executed some hyperparameter tuning and optimizations using RandomizedSearchCV. Another ROC/AUC Curve plot was generated to show the newly incorporated Random Forest + Optimization AUC. The Random Forest + Optimization algorithm had Accuracy Score: 0.7440476190476191 and AUC: 0.55703125. This algorithm did slightly worse on both measures when compared to the Random Forest on default parameters. 
 
 <h2>Random Forest Breakdown:<h2>
