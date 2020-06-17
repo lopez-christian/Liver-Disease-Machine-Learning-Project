@@ -99,9 +99,9 @@ After creating our machine learning-ready-dataset we went ahead and applied our 
 <img width="298" alt="Screen Shot 2020-06-16 at 10 19 17 PM" src="https://user-images.githubusercontent.com/53641091/84858457-11112600-b020-11ea-9c4d-8193b7b9103c.png">
 </p>
 
-<p align="center">
+
 <img width="263" alt="Screen Shot 2020-06-16 at 10 19 30 PM" src="https://user-images.githubusercontent.com/53641091/84858568-4ae22c80-b020-11ea-88df-1e05ee3ce4ae.png"><img width="154" alt="Screen Shot 2020-06-16 at 10 19 44 PM" src="https://user-images.githubusercontent.com/53641091/84858600-5b92a280-b020-11ea-8ae1-e5851b92764c.png">
-</p>
+
 
 <p align="center">
 <img width="843" alt="Screen Shot 2020-06-15 at 7 51 54 PM" src="https://user-images.githubusercontent.com/53641091/84726443-b0abb700-af41-11ea-8e2d-d4d62b7b028e.png">
