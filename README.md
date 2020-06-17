@@ -19,7 +19,23 @@ For this project I went ahead and implemented a number of machine learning algor
 The data mining and exploration step dealt some interesting insights regarding the data. There were some compelling countplots and undelying correlations that I came across. I won't list them all, but I will say that most of the people that were tested were male patients. The description of the dataset did not provide any background as to why this is so. Also, most of the patients that tested positive were male. The discrepencies were astonishing. Adults aged 24-63 were also significantly impacted by this liver disease, as opposed to young patients, and the elderly. There were also high correlations between certain features like direct bilirubin v. total bilirubin, alamine aminotransferase v. aspartate aminotransferase, total proteins v. albumin, and albumin v. albumin and globulin ratio. 
 
 <p align="center">
+<img width="396" alt="Screen Shot 2020-06-16 at 9 44 59 PM" src="https://user-images.githubusercontent.com/53641091/84857043-ff7a4f00-b01c-11ea-9b4d-e4aa6ff965d0.png">
+</p>
+
+<p align="center">
+<img width="284" alt="Screen Shot 2020-06-16 at 10 04 46 PM" src="https://user-images.githubusercontent.com/53641091/84857220-66980380-b01d-11ea-857e-0b6c85d6afcb.png">
+</p>
+
+<p align="center">
+<img width="565" alt="Screen Shot 2020-06-16 at 9 37 26 PM" src="https://user-images.githubusercontent.com/53641091/84857112-26388580-b01d-11ea-9cca-545ecd14fd38.png">
+</p>
+
+<p align="center">
 <img width="992" alt="Screen Shot 2020-06-15 at 6 53 26 PM" src="https://user-images.githubusercontent.com/53641091/84723028-881fbf00-af39-11ea-8587-dd7ddfc2bd72.png">
+</p>
+
+<p align="center">
+<img width="305" alt="Screen Shot 2020-06-16 at 9 07 17 PM" src="https://user-images.githubusercontent.com/53641091/84857335-a7901800-b01d-11ea-8324-4c9076ce01b1.png">
 </p>
 
 <p align="center">
