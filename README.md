@@ -95,16 +95,16 @@ The dataset was manipulated and cleaned using an assortment of libraries that in
 
 After creating our machine learning-ready-dataset we went ahead and applied our machine learning algorithms. These were classification algorithms that included Support Vector Machines (SVM), K-Nearest Neighbors, Decision Tree, Random Forest, Gradient Boosting Machines (GBM), eXtreme Gradient Boosting (XGBoost), and AdaBoost. These produced varying test metrics, and AUC measures. The. highest ranking proved to be the Random Forest algorithm with Accuracy Score: 0.7678571428571429 and AUC: 0.64140625. The AUCs were used to create and ROC/AUC Curve plot that compared all the algorithms. Having arrived at the conlusion that Random Forest was the best-performing out of the bunch, I went ahead and executed some hyperparameter tuning and optimizations using RandomizedSearchCV. Another ROC/AUC Curve plot was generated to show the newly incorporated Random Forest + Optimization AUC. The Random Forest + Optimization algorithm had Accuracy Score: 0.7440476190476191 and AUC: 0.55703125. This algorithm did slightly worse on both measures when compared to the Random Forest on default parameters. 
 
-<p align="center>
-<img width="298" alt="Screen Shot 2020-06-16 at 10 19 17 PM" src="https://user-images.githubusercontent.com/53641091/84858179-82040e00-b01f-11ea-888c-5a3f849a4575.png">
+<p align="center">
+<img width="298" alt="Screen Shot 2020-06-16 at 10 19 17 PM" src="https://user-images.githubusercontent.com/53641091/84858457-11112600-b020-11ea-9c4d-8193b7b9103c.png">
 </p>
 
 <p align="center">
-<img width="263" alt="Screen Shot 2020-06-16 at 10 19 30 PM" src="https://user-images.githubusercontent.com/53641091/84858189-86c8c200-b01f-11ea-9620-8eca8a78b288.png">
+<img width="263" alt="Screen Shot 2020-06-16 at 10 19 30 PM" src="https://user-images.githubusercontent.com/53641091/84858568-4ae22c80-b020-11ea-88df-1e05ee3ce4ae.png">
 </p>
 
-<p align="center>
-<img width="154" alt="Screen Shot 2020-06-16 at 10 19 44 PM" src="https://user-images.githubusercontent.com/53641091/84858191-8af4df80-b01f-11ea-8f4a-bd4ff94009e6.png">
+<p align="center">
+<img width="154" alt="Screen Shot 2020-06-16 at 10 19 44 PM" src="https://user-images.githubusercontent.com/53641091/84858600-5b92a280-b020-11ea-8ae1-e5851b92764c.png">
 </p>
 
 <p align="center">
